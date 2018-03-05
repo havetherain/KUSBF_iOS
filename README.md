@@ -1,4 +1,4 @@
-<img src = "https://github.com/gichang-yang/kusbf_readme_resource/blob/master/512%20-%20Play%20Store.png" height=32/>  KUSBF 17/18 Season iOS 어플리케이션 (KOR)
+<img src = "https://github.com/gichang-yang/kusbf_readme_resource/blob/master/512%20-%20Play%20Store.png" height=32/>  KUSBF 17/18 Season iOS 어플리케이션
 ====================================
 <img src = "https://github.com/weststar25/KUSBF_iOS/blob/master/ScreenShot/App_Icon.png" height=200/> <img src = "https://github.com/weststar25/KUSBF_iOS/blob/master/ScreenShot/intro.png" height=200/> <img src = "https://github.com/weststar25/KUSBF_iOS/blob/master/ScreenShot/main_info.png" height=200/> <img src = "https://github.com/weststar25/KUSBF_iOS/blob/master/ScreenShot/union_info.png" height=200/> <img src = "https://github.com/weststar25/KUSBF_iOS/blob/master/ScreenShot/developer_info.png" height=200/>
 
@@ -6,7 +6,7 @@
 
 Preview
 -------
-* 17/18 kusbf어플은 2018.1.22 현재 총 143명이 설치및 사용중인 어플리케이션(안드로이드 기준)이며,<br>
+* 17/18 kusbf어플은 2018.1.22 기준 총 143명이 설치및 사용중인 어플리케이션(안드로이드 기준)이며,<br>
 * 하루 서버 접속 인원은 평균 110명 정도(안드로이드 기준) 됩니다.<br>
 * 앱은 MVC패턴으로 작성되었으며, 개발기간을 단축하기 위해 일부 MVC의 디자인적 요소는 배제하였습니다.<br>
 * 모든 어플의 디자인은 안드로이드 개발자(양기창 - ykcha9@gmail.com)가 하였으며, Zeplin, Sketch를 사용하여 디자인 하였습니다.<br>
