@@ -1,10 +1,6 @@
 <img src = "https://github.com/gichang-yang/kusbf_readme_resource/blob/master/512%20-%20Play%20Store.png" height=32/>  KUSBF 17/18 Season iOS 어플리케이션 (KOR)
 ====================================
-<img src = "https://github.com/weststar25/KUSBF_iOS/blob/master/ScreenShot/App_Icon.png" height=200/>
-<img src = "https://github.com/weststar25/KUSBF_iOS/blob/master/ScreenShot/intro.png" height=200/>
-<img src = "https://github.com/weststar25/KUSBF_iOS/blob/master/ScreenShot/main_info.png" height=200/>
-<img src = "https://github.com/weststar25/KUSBF_iOS/blob/master/ScreenShot/union_info.png" height=200/>
-<img src = "https://github.com/weststar25/KUSBF_iOS/blob/master/ScreenShot/developer_info.png" height=200/>
+<img src = "https://github.com/weststar25/KUSBF_iOS/blob/master/ScreenShot/App_Icon.png" height=200/> <img src = "https://github.com/weststar25/KUSBF_iOS/blob/master/ScreenShot/intro.png" height=200/> <img src = "https://github.com/weststar25/KUSBF_iOS/blob/master/ScreenShot/main_info.png" height=200/> <img src = "https://github.com/weststar25/KUSBF_iOS/blob/master/ScreenShot/union_info.png" height=200/> <img src = "https://github.com/weststar25/KUSBF_iOS/blob/master/ScreenShot/developer_info.png" height=200/>
 
 개발자 : 김지우
 
