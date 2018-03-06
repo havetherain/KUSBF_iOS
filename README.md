@@ -19,11 +19,9 @@ Detail
   
   * Model : SplashViewContrller의 모델에서는 네트워크에서 받아온 json을 "main_info"와 "kusbf_info"로 뿌리기 위한 데이터 가공처리를 하는 비즈니스 로직을 담습니다.
   
-  * View : SplashViewContrller의 view 에서는 Controllerd에서 전송하는 user info 등록 여부에 따라 로그인 화면으로 가거나 / 받아온 json을 통하여 MainTabBarViewContoller로 이동하는 
-  역할을 합니다.
+  * View : SplashViewContrller의 view 에서는 Controller에서 전송하는 user info 등록 여부에 따라 로그인 화면으로 가거나 / 받아온 json을 통하여 MainTabBarViewContoller로 이동하는 역할을 합니다.
   
-  * Controller : Controller에서는 realm데이터 베이스상의 user info 등록 여부를 판별하여 등록된 유저가 있으면 Network에 fetch 요청을 보내고, 등록된 유저가 없을 시,
-  view에 로그인 화면으로 화면을 이동하는 요청을 보냅니다.
+  * Controller : Controller에서는 realm데이터 베이스상의 user info 등록 여부를 판별하여 등록된 유저가 있으면 Network에 fetch 요청을 보내고, 등록된 유저가 없을 시, view에 로그인 화면으로 화면을 이동하는 요청을 보냅니다.
   
 * PersonInfoViewController (First ViewController of MainTabBarViewContoller)
 
