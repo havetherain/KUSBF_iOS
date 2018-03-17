@@ -40,17 +40,13 @@ Detail
       
   * kusbf info
 
-    <img src = "https://github.com/weststar25/KUSBF_iOS/blob/master/ScreenShot/union_info.png" height=200/>  
-      
-      * Model : kusbf info 의 모델에서는 intro 에서 받아온 json("kusbf_info")를 최종적으로 연합 총 점수 Cell에 뿌리기 위한 데이터 가공처리 및 Top10 & UnivSort TableView에 데이터를 던지기 위한
-      비즈니스 로직을 담습니다.
-      이때, 역시 각 card의 데이터 뭉치 단위로 데이터를 움직입니다.
+    <img src = "https://github.com/weststar25/KUSBF_iOS/blob/master/ScreenShot/union_info.png" height=200/>
+    
+    * Model : kusbf info 의 모델에서는 intro 에서 받아온 json("kusbf_info")를 최종적으로 연합 총 점수 Cell에 뿌리기 위한 데이터 가공처리 및 Top10 & UnivSort TableView에 데이터를 던지기 위한 비즈니스 로직을 담습니다. 이때, 역시 각 card의 데이터 뭉치 단위로 데이터를 움직입니다.
   
-      * View : main info 의 view 에서는 받아온 kusbf_info의 rawData를 Controller에 전송한 뒤,
-      Controller에서 model을 활용하여 분류한 데이터들을 받아와서 total score 에 뿌려주고, Top10 Labels, UnivSortTableView와 연결합니다. 
+    * View : main info 의 view 에서는 받아온 kusbf_info의 rawData를 Controller에 전송한 뒤, Controller에서 model을 활용하여 분류한 데이터들을 받아와서 total score 에 뿌려주고, Top10 Labels, UnivSortTableView와 연결합니다. 
   
-      * Controller : Controller에서는 view에서 넘겨받은 rawData를 각각의 Total info, TableView에 필요한 데이터에 알맞게 데이터를 분류및 Model을 활용하여 가공하여 
-      view에 전달합니다.
+    * Controller : Controller에서는 view에서 넘겨받은 rawData를 각각의 Total info, TableView에 필요한 데이터에 알맞게 데이터를 분류및 Model을 활용하여 가공하여 view에 전달합니다.
         
 사용 라이브러리 및 api
 -----------------
